@@ -1,0 +1,327 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Main", "Main\Main.vcxproj", "{D22F7FF1-B1AB-4E8F-AEC7-DA1C743052BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "list", "list", "{0180C348-E166-45BF-B8FF-D8BC21FD3156}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{34194209-2A5F-4CF0-A803-117C16E8F7EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3_数据和C", "3_数据和C", "{4777382F-86A4-4EB0-B036-D7854F539852}"
+	ProjectSection(SolutionItems) = preProject
+		escape.c = escape.c
+		floaterr.c = floaterr.c
+		showf_pt.c = showf_pt.c
+		typesize.c = typesize.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_C语言概述", "2_C语言概述", "{C8367A33-13A1-44DA-B38B-E5E935FAEB0F}"
+	ProjectSection(SolutionItems) = preProject
+		altname.c = altname.c
+		bases.c = bases.c
+		sharcode.c = sharcode.c
+		toobig.c = toobig.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_初识C语言", "1_初识C语言", "{F2561E96-0EFA-4618-A009-11AEC2F7D391}"
+	ProjectSection(SolutionItems) = preProject
+		fathom_feet.c = fathom_feet.c
+		first.c = first.c
+		platinum.c = platinum.c
+		print1.c = print1.c
+		two_func.c = two_func.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3_数据和C", "3_数据和C", "{D8D1BD30-AEC1-4A4E-85A4-3D791C802183}"
+	ProjectSection(SolutionItems) = preProject
+		test3_1.c = test3_1.c
+		test3_2.c = test3_2.c
+		test3_3.c = test3_3.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4_字符串和格式化输入输出", "4_字符串和格式化输入输出", "{D4AEA773-E277-4425-8041-F6BC3EFC398F}"
+	ProjectSection(SolutionItems) = preProject
+		define.c = define.c
+		float.c = float.c
+		floatcov.c = floatcov.c
+		input.c = input.c
+		intconv.c = intconv.c
+		praise.c = praise.c
+		varwid.c = varwid.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4_字符串和格式化输入输出", "4_字符串和格式化输入输出", "{BC9C9F79-6647-4B18-90DD-49FFAB878264}"
+	ProjectSection(SolutionItems) = preProject
+		Test4_1.c = Test4_1.c
+		Test4_2.c = Test4_2.c
+		Test4_3.c = Test4_3.c
+		Test4_4.c = Test4_4.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5_运算符。表达式和语句", "5_运算符。表达式和语句", "{941404CC-AACB-4898-A1AF-CC7080DC09CD}"
+	ProjectSection(SolutionItems) = preProject
+		squares.c = squares.c
+		wheat.c = wheat.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5_运算符。表达式和语句", "5_运算符。表达式和语句", "{444DA835-5843-4A0E-99E0-58549300F974}"
+	ProjectSection(SolutionItems) = preProject
+		Test5_1.c = Test5_1.c
+		Test5_2.c = Test5_2.c
+		Test5_3.c = Test5_3.c
+		Test5_4.c = Test5_4.c
+		Test5_5.c = Test5_5.c
+		Test5_6.c = Test5_6.c
+		Test5_7.c = Test5_7.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6_C控制语句：循环", "6_C控制语句：循环", "{69EBB42C-4E2C-447A-B228-20165B2BECC6}"
+	ProjectSection(SolutionItems) = preProject
+		for.c = for.c
+		L6_2_power.c = L6_2_power.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6_C控制语句：循环", "6_C控制语句：循环", "{45157B31-C8DE-42E3-BCAB-AC03DD1D367A}"
+	ProjectSection(SolutionItems) = preProject
+		Test6_1.c = Test6_1.c
+		Test6_10.c = Test6_10.c
+		Test6_11.c = Test6_11.c
+		Test6_2.c = Test6_2.c
+		Test6_3.c = Test6_3.c
+		Test6_4.c = Test6_4.c
+		Test6_5.c = Test6_5.c
+		Test6_6.c = Test6_6.c
+		Test6_7.c = Test6_7.c
+		Test6_8.c = Test6_8.c
+		Test6_9.c = Test6_9.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_初识C语言", "1_初识C语言", "{90F649B8-00BD-4464-B1E2-9CD1D9F7600B}"
+	ProjectSection(SolutionItems) = preProject
+		Test1_1.c = Test1_1.c
+		Test1_2.c = Test1_2.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7_C控制语句：分支和跳转", "7_C控制语句：分支和跳转", "{ECD8F2A8-E4F8-4B9B-8A4F-A2D639877912}"
+	ProjectSection(SolutionItems) = preProject
+		Test_7_1.c = Test_7_1.c
+		Test_7_2.c = Test_7_2.c
+		Test_7_3.c = Test_7_3.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7_C控制语句：分支和跳转", "7_C控制语句：分支和跳转", "{9A7E11A7-7DB3-4CD5-B246-85DBE56DFB1D}"
+	ProjectSection(SolutionItems) = preProject
+		L7_1_cypher.c = L7_1_cypher.c
+		L7_2_divisors.c = L7_2_divisors.c
+		L7_3_wordcnt.c = L7_3_wordcnt.c
+		L7_4_switch.c = L7_4_switch.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8_字符输入输出和输入验证", "8_字符输入输出和输入验证", "{12D17A5D-2413-44D6-B016-25BA12F5B0F6}"
+	ProjectSection(SolutionItems) = preProject
+		file_eof.c = file_eof.c
+		file_eof2.c = file_eof2.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8_字符输入输出和输入验证", "8_字符输入输出和输入验证", "{F5F56B96-E7E0-49DE-BCCA-843A43EC6498}"
+	ProjectSection(SolutionItems) = preProject
+		math.c = math.c
+		Test8_1.c = Test8_1.c
+		Test8_2.c = Test8_2.c
+		Test8_3.c = Test8_3.c
+		Test8_4.c = Test8_4.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9_函数", "9_函数", "{6107C1CE-E462-49BE-8887-B279919868FE}"
+	ProjectSection(SolutionItems) = preProject
+		baniry.c = baniry.c
+		loccheck.c = loccheck.c
+		point.c = point.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9_函数", "9_函数", "{77BB24C6-0A25-4B0B-ABA3-AD696BAE16F2}"
+	ProjectSection(SolutionItems) = preProject
+		Test9_1.c = Test9_1.c
+		Test9_2.c = Test9_2.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10_数组和指针", "10_数组和指针", "{F953C1E1-282A-492B-908B-2B9C5B04D680}"
+	ProjectSection(SolutionItems) = preProject
+		point1.c = point1.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10_数组和指针", "10_数组和指针", "{16DE31B1-F8F0-4E55-881D-AA8E5BFCE77F}"
+	ProjectSection(SolutionItems) = preProject
+		Test10_1.c = Test10_1.c
+		Test10_2.c = Test10_2.c
+		Test10_3.c = Test10_3.c
+		Test10_4.c = Test10_4.c
+		Test10_5.c = Test10_5.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11_字符串和字符串函数", "11_字符串和字符串函数", "{C9113B7A-CC24-43F0-A0DC-80EC4139937F}"
+	ProjectSection(SolutionItems) = preProject
+		arrchar.c = arrchar.c
+		fgets1.c = fgets1.c
+		fgets2.c = fgets2.c
+		fgets3.c = fgets3.c
+		repeat.c = repeat.c
+		sort_str.c = sort_str.c
+		strcat.c = strcat.c
+		strcmp.c = strcmp.c
+		strcpy.c = strcpy.c
+		strncat.c = strncat.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11_字符串和字符串函数", "11_字符串和字符串函数", "{E8EB4484-BCDF-474D-B1C1-220712EB6CF6}"
+	ProjectSection(SolutionItems) = preProject
+		Test11_1.c = Test11_1.c
+		Test11_2.c = Test11_2.c
+		Test11_3.c = Test11_3.c
+		Test11_4.c = Test11_4.c
+		Test11_5.c = Test11_5.c
+		Test11_6.c = Test11_6.c
+		Test11_7.c = Test11_7.c
+		Test11_8.c = Test11_8.c
+		Test11_9.c = Test11_9.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12_存储类别，链接和内存管理", "12_存储类别，链接和内存管理", "{CA7078CF-AFEA-4F15-ABE3-F6B67E842243}"
+	ProjectSection(SolutionItems) = preProject
+		diceroll.c = diceroll.c
+		malloc.c = malloc.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "list_12_1", "list_12_1", "{6671E3A1-6604-4CE0-8815-F14123826A21}"
+	ProjectSection(SolutionItems) = preProject
+		rand1.c = rand1.c
+		random.c = random.c
+		srand1.c = srand1.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12_存储类别，链接和内存管理", "12_存储类别，链接和内存管理", "{D4862A02-8F38-479D-8BBD-B28573D79BAA}"
+	ProjectSection(SolutionItems) = preProject
+		Test12_1.c = Test12_1.c
+		Test12_2.c = Test12_2.c
+		Test12_3.c = Test12_3.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13_文件输入和输出", "13_文件输入和输出", "{FD10DC2C-B1F8-4034-8D25-6F25EF7C4348}"
+	ProjectSection(SolutionItems) = preProject
+		addaword.c = addaword.c
+		append.c = append.c
+		count.c = count.c
+		fwrite.c = fwrite.c
+		reduce.c = reduce.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13_文件输入和输出", "13_文件输入和输出", "{1C25604D-8D48-44B5-9660-86B67DC2F868}"
+	ProjectSection(SolutionItems) = preProject
+		Test13_1.c = Test13_1.c
+		Test13_2.c = Test13_2.c
+		Test13_3.c = Test13_3.c
+		Test13_4.c = Test13_4.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "14_结构和其他数据形式", "14_结构和其他数据形式", "{0E03C359-39B8-4BBE-85FB-321F090CB3BB}"
+	ProjectSection(SolutionItems) = preProject
+		booksave.c = booksave.c
+		enum.c = enum.c
+		friends.c = friends.c
+		names.c = names.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15_位操作", "15_位操作", "{A6F82E17-4F49-4D0A-BB52-C36AC06C92A3}"
+	ProjectSection(SolutionItems) = preProject
+		dualview.c = dualview.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "16_C预处理和C库", "16_C预处理和C库", "{0B9B1AD0-A459-48C1-AAD0-F39F515BF523}"
+	ProjectSection(SolutionItems) = preProject
+		predef.c = predef.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "17_高级数据表示", "17_高级数据表示", "{00F5B46B-5CDA-4C58-BCC7-6FE2F6387942}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "List", "List", "{B98E7EAB-0420-4442-AC20-209377C99E94}"
+	ProjectSection(SolutionItems) = preProject
+		films.c = films.c
+		list.c = list.c
+		list.h = list.h
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Queue", "Queue", "{349436D0-76DD-4FBD-B314-39778424182B}"
+	ProjectSection(SolutionItems) = preProject
+		queue.c = queue.c
+		queue.h = queue.h
+		use_p.c = use_p.c
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tree", "Tree", "{50EB72CD-C196-4848-BE4B-07B4F38A61BB}"
+	ProjectSection(SolutionItems) = preProject
+		petclub.c = petclub.c
+		tree.c = tree.c
+		tree.h = tree.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D22F7FF1-B1AB-4E8F-AEC7-DA1C743052BB}.Debug|x64.ActiveCfg = Debug|x64
+		{D22F7FF1-B1AB-4E8F-AEC7-DA1C743052BB}.Debug|x64.Build.0 = Debug|x64
+		{D22F7FF1-B1AB-4E8F-AEC7-DA1C743052BB}.Debug|x86.ActiveCfg = Debug|Win32
+		{D22F7FF1-B1AB-4E8F-AEC7-DA1C743052BB}.Debug|x86.Build.0 = Debug|Win32
+		{D22F7FF1-B1AB-4E8F-AEC7-DA1C743052BB}.Release|x64.ActiveCfg = Release|x64
+		{D22F7FF1-B1AB-4E8F-AEC7-DA1C743052BB}.Release|x64.Build.0 = Release|x64
+		{D22F7FF1-B1AB-4E8F-AEC7-DA1C743052BB}.Release|x86.ActiveCfg = Release|Win32
+		{D22F7FF1-B1AB-4E8F-AEC7-DA1C743052BB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4777382F-86A4-4EB0-B036-D7854F539852} = {0180C348-E166-45BF-B8FF-D8BC21FD3156}
+		{C8367A33-13A1-44DA-B38B-E5E935FAEB0F} = {0180C348-E166-45BF-B8FF-D8BC21FD3156}
+		{F2561E96-0EFA-4618-A009-11AEC2F7D391} = {0180C348-E166-45BF-B8FF-D8BC21FD3156}
+		{D8D1BD30-AEC1-4A4E-85A4-3D791C802183} = {34194209-2A5F-4CF0-A803-117C16E8F7EA}
+		{D4AEA773-E277-4425-8041-F6BC3EFC398F} = {0180C348-E166-45BF-B8FF-D8BC21FD3156}
+		{BC9C9F79-6647-4B18-90DD-49FFAB878264} = {34194209-2A5F-4CF0-A803-117C16E8F7EA}
+		{941404CC-AACB-4898-A1AF-CC7080DC09CD} = {0180C348-E166-45BF-B8FF-D8BC21FD3156}
+		{444DA835-5843-4A0E-99E0-58549300F974} = {34194209-2A5F-4CF0-A803-117C16E8F7EA}
+		{69EBB42C-4E2C-447A-B228-20165B2BECC6} = {0180C348-E166-45BF-B8FF-D8BC21FD3156}
+		{45157B31-C8DE-42E3-BCAB-AC03DD1D367A} = {34194209-2A5F-4CF0-A803-117C16E8F7EA}
+		{90F649B8-00BD-4464-B1E2-9CD1D9F7600B} = {34194209-2A5F-4CF0-A803-117C16E8F7EA}
+		{ECD8F2A8-E4F8-4B9B-8A4F-A2D639877912} = {34194209-2A5F-4CF0-A803-117C16E8F7EA}
+		{9A7E11A7-7DB3-4CD5-B246-85DBE56DFB1D} = {0180C348-E166-45BF-B8FF-D8BC21FD3156}
+		{12D17A5D-2413-44D6-B016-25BA12F5B0F6} = {0180C348-E166-45BF-B8FF-D8BC21FD3156}
+		{F5F56B96-E7E0-49DE-BCCA-843A43EC6498} = {34194209-2A5F-4CF0-A803-117C16E8F7EA}
+		{6107C1CE-E462-49BE-8887-B279919868FE} = {0180C348-E166-45BF-B8FF-D8BC21FD3156}
+		{77BB24C6-0A25-4B0B-ABA3-AD696BAE16F2} = {34194209-2A5F-4CF0-A803-117C16E8F7EA}
+		{F953C1E1-282A-492B-908B-2B9C5B04D680} = {0180C348-E166-45BF-B8FF-D8BC21FD3156}
+		{16DE31B1-F8F0-4E55-881D-AA8E5BFCE77F} = {34194209-2A5F-4CF0-A803-117C16E8F7EA}
+		{C9113B7A-CC24-43F0-A0DC-80EC4139937F} = {0180C348-E166-45BF-B8FF-D8BC21FD3156}
+		{E8EB4484-BCDF-474D-B1C1-220712EB6CF6} = {34194209-2A5F-4CF0-A803-117C16E8F7EA}
+		{CA7078CF-AFEA-4F15-ABE3-F6B67E842243} = {0180C348-E166-45BF-B8FF-D8BC21FD3156}
+		{6671E3A1-6604-4CE0-8815-F14123826A21} = {CA7078CF-AFEA-4F15-ABE3-F6B67E842243}
+		{D4862A02-8F38-479D-8BBD-B28573D79BAA} = {34194209-2A5F-4CF0-A803-117C16E8F7EA}
+		{FD10DC2C-B1F8-4034-8D25-6F25EF7C4348} = {0180C348-E166-45BF-B8FF-D8BC21FD3156}
+		{1C25604D-8D48-44B5-9660-86B67DC2F868} = {34194209-2A5F-4CF0-A803-117C16E8F7EA}
+		{0E03C359-39B8-4BBE-85FB-321F090CB3BB} = {0180C348-E166-45BF-B8FF-D8BC21FD3156}
+		{A6F82E17-4F49-4D0A-BB52-C36AC06C92A3} = {0180C348-E166-45BF-B8FF-D8BC21FD3156}
+		{0B9B1AD0-A459-48C1-AAD0-F39F515BF523} = {0180C348-E166-45BF-B8FF-D8BC21FD3156}
+		{00F5B46B-5CDA-4C58-BCC7-6FE2F6387942} = {0180C348-E166-45BF-B8FF-D8BC21FD3156}
+		{B98E7EAB-0420-4442-AC20-209377C99E94} = {00F5B46B-5CDA-4C58-BCC7-6FE2F6387942}
+		{349436D0-76DD-4FBD-B314-39778424182B} = {00F5B46B-5CDA-4C58-BCC7-6FE2F6387942}
+		{50EB72CD-C196-4848-BE4B-07B4F38A61BB} = {00F5B46B-5CDA-4C58-BCC7-6FE2F6387942}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDF3A0CB-D599-458A-B5D3-3EC714670676}
+	EndGlobalSection
+EndGlobal

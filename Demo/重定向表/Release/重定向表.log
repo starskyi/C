@@ -1,0 +1,10 @@
+﻿  relocation.cpp
+D:\code\C\Demo\重定向表\relocation.cpp(13,7): warning C4409: 非法的指令大小
+    正在创建库 D:\code\C\Demo\重定向表\Release\重定向表.lib 和对象 D:\code\C\Demo\重定向表\Release\重定向表.exp
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : warning LNK4232: 名称 重定向表.dll 包含非 ASCII 字符，在具有除 936 以外的 ANSI 代码页的系统上可能不能加载 DLL
+  正在生成代码
+  已完成代码的生成
+relocation.obj : warning LNK4254: 节“.data”(C0000040)合并到具有不同特性的“.text”(60000020)
+  重定向表.vcxproj -> D:\code\C\Demo\重定向表\Release\重定向表.dll

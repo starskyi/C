@@ -1,0 +1,3 @@
+LIBRARY "mydll1"
+EXPORTS
+hello @ 1

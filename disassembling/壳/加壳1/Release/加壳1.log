@@ -1,0 +1,9 @@
+﻿  CPeUtil.cpp
+D:\code\C\disassembling\壳\加壳1\CPeUtil.cpp(109,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\code\C\disassembling\壳\加壳1\CPeUtil.cpp(160,21): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  2 of 15 functions (13.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  加壳1.vcxproj -> D:\code\C\disassembling\壳\加壳1\Release\加壳1.exe

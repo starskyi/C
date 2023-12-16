@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "working", "working.vcxproj", "{83189541-4F18-44D2-8119-4FD82F64FEFF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "analyse", "analyse", "{D11CCEE3-C6A9-4987-8C29-FC097E9F25F7}"
+	ProjectSection(SolutionItems) = preProject
+		asmTest.cpp = asmTest.cpp
+		classTest1.cpp = classTest1.cpp
+		classTest2.cpp = classTest2.cpp
+		classTest3.cpp = classTest3.cpp
+		ifelse_switchTest1.cpp = ifelse_switchTest1.cpp
+		loopTest1.cpp = loopTest1.cpp
+		stackTest1.cpp = stackTest1.cpp
+		x64Test.cpp = x64Test.cpp
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83189541-4F18-44D2-8119-4FD82F64FEFF}.Debug|x64.ActiveCfg = Debug|x64
+		{83189541-4F18-44D2-8119-4FD82F64FEFF}.Debug|x64.Build.0 = Debug|x64
+		{83189541-4F18-44D2-8119-4FD82F64FEFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{83189541-4F18-44D2-8119-4FD82F64FEFF}.Debug|x86.Build.0 = Debug|Win32
+		{83189541-4F18-44D2-8119-4FD82F64FEFF}.Release|x64.ActiveCfg = Release|x64
+		{83189541-4F18-44D2-8119-4FD82F64FEFF}.Release|x64.Build.0 = Release|x64
+		{83189541-4F18-44D2-8119-4FD82F64FEFF}.Release|x86.ActiveCfg = Release|Win32
+		{83189541-4F18-44D2-8119-4FD82F64FEFF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C94EE6F-088A-4599-A8FA-F1CDF7169091}
+	EndGlobalSection
+EndGlobal

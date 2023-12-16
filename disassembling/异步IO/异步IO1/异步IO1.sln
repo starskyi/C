@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "异步IO1", "异步IO1.vcxproj", "{55C83B95-EFCA-4719-91D3-0D4970C87CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C83B95-EFCA-4719-91D3-0D4970C87CFB}.Debug|x64.ActiveCfg = Debug|x64
+		{55C83B95-EFCA-4719-91D3-0D4970C87CFB}.Debug|x64.Build.0 = Debug|x64
+		{55C83B95-EFCA-4719-91D3-0D4970C87CFB}.Debug|x86.ActiveCfg = Debug|Win32
+		{55C83B95-EFCA-4719-91D3-0D4970C87CFB}.Debug|x86.Build.0 = Debug|Win32
+		{55C83B95-EFCA-4719-91D3-0D4970C87CFB}.Release|x64.ActiveCfg = Release|x64
+		{55C83B95-EFCA-4719-91D3-0D4970C87CFB}.Release|x64.Build.0 = Release|x64
+		{55C83B95-EFCA-4719-91D3-0D4970C87CFB}.Release|x86.ActiveCfg = Release|Win32
+		{55C83B95-EFCA-4719-91D3-0D4970C87CFB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76339B2E-ACFE-45BE-8025-188C74A6512A}
+	EndGlobalSection
+EndGlobal

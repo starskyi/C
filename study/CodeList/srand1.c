@@ -1,0 +1,2 @@
+
+exter rand1();
